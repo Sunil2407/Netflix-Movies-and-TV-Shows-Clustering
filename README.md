@@ -4,18 +4,12 @@ Project tile - Netflix Movies and TV Shows Clustering
 Description:
 This is a Unsupervised ML (Clustering) capstone project on Netflix Movies and TV Shows Clustering given by Alma Better.
 
-github
 
 Problem statement:
 This dataset consist of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that number of TV Shows on Netflix has nearly tripled since 2010. The streaming service's number of movies has decreased by more than 2,000 titles since 2010, while its number of TV Shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.
 
 Integrating this dataset with other external dataset such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
 
-net
-
-github
-
-Note: Dataset is provided by the company, Alma Better.
 Dataset description:
 The dataset is collected from Flixable which is a third-party search engine of Netflix. The dataset consist of the information of the Movies and TV Shows available on Netflix as of 2019
 
